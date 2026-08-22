@@ -112,9 +112,6 @@ int main(void)
 
 <div align="center">
 
-<a href="mailto:TON_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=4C9AFF" />
-</a>
 <a href="https://github.com/DevDonnie">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4C9AFF" />
 </a>
