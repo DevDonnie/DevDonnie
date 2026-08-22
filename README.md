@@ -45,9 +45,15 @@ int main(void)
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" />
+
+<img src="https://skillicons.dev/icons?i=c,js&theme=dark" height="48" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" />
 
 ### Tools & Environment
+
 <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,bash&theme=dark" height="48" />
 
 </div>
