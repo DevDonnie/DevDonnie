@@ -65,13 +65,12 @@ int main(void)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevDonnie&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4C9AFF&icon_color=4C9AFF&text_color=C9D1D9&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDonnie&layout=compact&hide_border=true&bg_color=0D1117&title_color=4C9AFF&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-henna-beta-25.vercel.app/api?username=DevDonnie&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4C9AFF&icon_color=4C9AFF&text_color=C9D1D9&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-henna-beta-25.vercel.app/api/top-langs/?username=DevDonnie&layout=compact&hide_border=true&bg_color=0D1117&title_color=4C9AFF&text_color=C9D1D9&langs_count=8" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=DevDonnie&hide_border=true&background=0D1117&ring=4C9AFF&fire=4C9AFF&currStreakLabel=4C9AFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
 </div>
 
 <br/>
