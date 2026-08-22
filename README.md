@@ -40,7 +40,7 @@ int main(void)
 
 <br/>
 
-## 🛠️ &nbsp;Tech Stack
+##  &nbsp;Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ int main(void)
 <br/>
 
 
-## 📊 &nbsp;GitHub Stats
+##  &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -71,7 +71,7 @@ int main(void)
 <br/>
 
 
-## 📈 &nbsp;Contribution Graph
+##  &nbsp;Contribution Graph
 
 <div align="center">
 
@@ -93,7 +93,7 @@ int main(void)
 
 
 
-## 🚧 &nbsp;Currently Working On
+##  &nbsp;Currently Working On
 
 - 📚 &nbsp;Learning **C** — pointers, structs, memory management
 - 🔨 &nbsp;Building small command-line programs to practice
